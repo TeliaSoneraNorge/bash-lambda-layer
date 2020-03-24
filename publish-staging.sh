@@ -2,7 +2,7 @@
 
 # AWS Regions
 REGIONS=(
-    "us-west-2"
+    "eu-west-1"
 )
 LAYER_NAME="bash-testing"
 
